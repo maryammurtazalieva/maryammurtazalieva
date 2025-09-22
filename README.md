@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**maryammurtazalieva/maryammurtazalieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋🏻 Привет, я Марьям Муртазалиева!
 
-Here are some ideas to get you started:
+Фронтенд-инженер 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+- HTML, ES6, CSS, JavaScript, JSX
+- Git, Vite, Sass
+
+## Образование
+Высшее, 2026<br>
+Дагестанский государственный университет<br>
+ФИиИТ, Программная инженерия
+
+## Контакты
+- Email: murt4zalievamaryam@yandex.ru
+- 💼 Telegram: @mari17rm
+- GitHub: https://github.com/maryammurtazalieva
