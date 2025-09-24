@@ -14,5 +14,5 @@
 
 ## Контакты
 - Email: murt4zalievamaryam@yandex.ru
-- 💼 Telegram: @mari17rm
+- Telegram: @mari17rm
 - GitHub: https://github.com/maryammurtazalieva
